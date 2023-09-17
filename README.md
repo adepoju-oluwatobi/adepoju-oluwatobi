@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; align-items: center;">
+     # My Project
   <div style="flex: 1;">
     <!-- Your README content goes here -->
-    # My Project
   <div>
       Welcome to my project's README.
 - 🔭 I’m a Frontend Developer ...
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with web development...
 - 📫 How to reach me: kunletobi4@gmail.com
   </div>
-  <div style="flex: 1;">
+  <div>
     <!-- Vector image goes here -->
     <img src="https://user-images.githubusercontent.com/143299286/265134872-c67fe686-e1cf-48de-9409-5a59b101b1b6.png" alt="Vector Image">
   </div>
