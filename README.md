@@ -20,7 +20,7 @@ Welcome to my project's README.
 
 <h3 align="left">Connect with me! </h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/deviasminsilva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/oluwatobi-adepoju-4a242898/)
 
 <details align="left">
   <summary></summary> 
