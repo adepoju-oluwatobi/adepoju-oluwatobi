@@ -58,7 +58,7 @@ A complete education management platform designed for modern schools.
 - REST APIs
 
 🔗 **Project Link:**  
-👉 https://github.com/yourusername/edusuite
+👉 https://edusuite.94codehub.com.ng/
 
 ---
 
